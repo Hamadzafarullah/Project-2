@@ -1,0 +1,44 @@
+.container{
+  background-color: rgb(255, 140, 0);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.animeCard{
+  
+  width: 17rem;
+  margin: 17px;
+  text-align: center;
+}
+
+.show {
+  text-align: center;
+}
+
+h1{
+  background-color: black;
+  color: aliceblue;
+}
+body {
+background-color: rgb(255, 140, 0);
+    
+  
+ }
+
+ .backintro{
+  background-image: url("https://i.imgur.com/JLwK9P2.gif");
+  width: 200vh;
+  height:100vh;
+ }
+
+ .button{
+  text-align: center;
+  font-size: 25px;
+ }
+ 
+.title{
+  color: aliceblue;
+  text-align: center;
+  font-size: 30px;
+}

@@ -1,0 +1,4 @@
+APi=  http://api.jikan.moe/v4/top/anime 
+get our api working and display anime titles so we its working correctly 
+after i want to get the anime cards to display then i want when clicked on anime card or title 
+it displays the info ETC on the showpage
