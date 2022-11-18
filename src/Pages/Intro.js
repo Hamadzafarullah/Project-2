@@ -4,7 +4,7 @@ function Intro() {
    
     return(
    <div className="backintro">
-    <div className="title">Click See More To See a List Of Anime And There Ratings/Info</div>
+    <div className="title">Welcome To GetAnime Click One See More To See List Of Anime</div>
    <Link to = {"/TopAnime"}>
     <div className="button">See more</div>
     </Link>  
